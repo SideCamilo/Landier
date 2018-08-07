@@ -1,0 +1,15 @@
+[11-Feb-2017 13:29:45 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 16
+[11-Feb-2017 13:29:51 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 16
+[11-Feb-2017 13:30:03 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 16
+[11-Feb-2017 13:30:05 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 16
+[11-Feb-2017 13:30:31 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 16
+[11-Feb-2017 13:31:14 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 15
+[11-Feb-2017 13:31:16 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 15
+[11-Feb-2017 16:44:31 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 72
+[11-Feb-2017 16:46:03 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 33
+[11-Feb-2017 16:46:05 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 33
+[11-Feb-2017 16:46:55 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 24
+[11-Feb-2017 16:46:57 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/landiermx/public_html/land_dev/admin/scripts/crear.php on line 24
+[11-Feb-2017 17:22:08 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/landiermx/public_html/land_dev/admin/scripts/listaprop.php on line 20
+[11-Feb-2017 17:22:50 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/landiermx/public_html/land_dev/admin/scripts/listaprop.php on line 20
+[11-Feb-2017 17:23:05 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/landiermx/public_html/land_dev/admin/scripts/listaprop.php on line 20

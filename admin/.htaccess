@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile "/home/landiermx/.htpasswds/public_html/land_dev/admin/passwd"
+require valid-user
